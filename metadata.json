@@ -1,0 +1,6 @@
+{
+  "name": "Katen Blog",
+  "description": "Professional Writer & Personal Blogger template featuring Lifestyle, Inspiration, Fashion, Trending, and Culture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
